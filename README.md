@@ -38,7 +38,7 @@ After installing the libraries, you can start your Streamlit app as follows:
 it will automatically Navigate to the browser
 ### 1. Clone this repository
  ```
- 
+ https://github.com/Vigneshvicky63/Python-Excel-Dashboard-Generator.git
  ```
 ## Removing BOM
 ### If you've opened a file in PyCharm that contains a BOM and you want to remove it, follow these steps:
