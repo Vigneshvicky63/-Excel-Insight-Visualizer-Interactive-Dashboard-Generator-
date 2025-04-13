@@ -53,8 +53,11 @@ To Remove BOM from Existing Files:
 3. Select Save with Encoding → UTF-8 (without BOM).
 
 ## Contact
+
 If you have any questions or suggestions, feel free to reach out to:
+
 Author: Vignesh D
+
 Email: vigneshlakshmi149@gmail.com
 
 
