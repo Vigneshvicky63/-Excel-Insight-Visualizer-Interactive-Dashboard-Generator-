@@ -11,3 +11,51 @@ This Streamlit application enables users to upload an Excel file, select a sheet
 - Python 3.x
 - Required Libraries:
 
+
+   - streamlit for building the interactive dashboard.
+        ```
+       pip install streamlit
+        ```
+   - pandas for data handling and processing
+       ```
+       pip install pandas
+       ```
+   - plotly for generating interactive charts
+       ```
+       pip install plotly
+       ```
+   - openpyxl for reading Excel files
+       ```
+       pip install openpyxl
+       ```
+## Installation
+To run this app, follow the steps below:
+
+After installing the libraries, you can start your Streamlit app as follows:
+ ```
+ streamlit run app.py
+ ```
+it will automatically Navigate to the browser
+### 1. Clone this repository
+ ```
+ git clone https://github.com/MohanCheenu/Excel-to-Dashboard-Charts-Using-Python-.git
+ ```
+## Removing BOM
+### If you've opened a file in PyCharm that contains a BOM and you want to remove it, follow these steps:
+1. Open the file in PyCharm.
+2. Go to File → File Properties → File Encoding (or simply right-click on the file tab and select File Properties).
+3. In the Encoding dropdown, select UTF-8 (without BOM).
+4. Click Apply or OK to save the changes. PyCharm will remove the BOM (if any) from the file and save it with the specified encoding.
+### If you're using VS Code follow these steps to prevent or remove BOM:
+To Remove BOM from Existing Files:
+1. Open your Python file or CSV file in VS Code.
+2. Click on the UTF-8 text in the bottom-right corner of the editor (or any other encoding if visible).
+3. Select Save with Encoding → UTF-8 (without BOM).
+
+## Contact
+If you have any questions or suggestions, feel free to reach out to:
+Author: Vignesh D
+Email: vigneshlakshmi149@gmail.com
+
+
+
