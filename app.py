@@ -94,7 +94,7 @@ def generate_chart(data, chart_type, x_col, y_col, y_agg, color_col=None):
 
 # Streamlit app layout
 def main():
-    st.title("Automated Excel to Interactive Dashboard")
+    st.title("Python-Excel-Dashboard-Generator")
 
     # File Upload Section
     uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
